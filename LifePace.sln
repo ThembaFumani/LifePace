@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifePace.API", "LifePace.API\LifePace.API.csproj", "{D57F30E9-2FB6-4162-8662-B2165FB4768E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LifePace.Client", "LifePace.Client\LifePace.Client.csproj", "{A8A68437-F124-4B6D-95D9-678BE326A06C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D57F30E9-2FB6-4162-8662-B2165FB4768E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D57F30E9-2FB6-4162-8662-B2165FB4768E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D57F30E9-2FB6-4162-8662-B2165FB4768E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D57F30E9-2FB6-4162-8662-B2165FB4768E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8A68437-F124-4B6D-95D9-678BE326A06C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8A68437-F124-4B6D-95D9-678BE326A06C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8A68437-F124-4B6D-95D9-678BE326A06C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8A68437-F124-4B6D-95D9-678BE326A06C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

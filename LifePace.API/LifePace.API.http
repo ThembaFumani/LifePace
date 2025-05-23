@@ -1,0 +1,6 @@
+@LifePace.API_HostAddress = http://localhost:5234
+
+GET {{LifePace.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
